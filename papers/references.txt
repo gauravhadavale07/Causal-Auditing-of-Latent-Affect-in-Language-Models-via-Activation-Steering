@@ -1,0 +1,21 @@
+[1] Olah, C., et al. (2020). Zoom In: An Introduction to Circuits. Distill. https://distill.
+pub/2020/circuits/
+[2] Elhage, N., et al. (2021). A Mathematical Framework for Transformer Circuits. Anthropic.
+[3] Turner, A. M., et al. (2023). Activation Steering: Controlling LLM Behavior via Internal
+Representations. arXiv preprint arXiv:2308.10248.
+[4] Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2022). Locating and Editing Factual
+Associations in GPT. Proceedings of NeurIPS.
+[5] Geva, M., Schuster, R., Berant, J., & Levy, O. (2021). Transformer Feed-Forward Layers
+Are Key-Value Memories. Proceedings of EMNLP.
+8
+[6] Hupkes, D., Dankers, V., Mul, M., & Bruni, E. (2020). Compositionality Decomposed:
+How do Neural Networks Generalise? Journal of Artificial Intelligence Research (JAIR).
+[7] Minervini, P., et al. (2023). Adaptive Rank-based Consistency for Image Generation. Proceedings of CVPR.
+[8] Garg, V., et al. (2023). What Can We Learn from the Robustness of Large Language
+Models? Proceedings of ICML.
+[9] Pearl, J. (2009). Causality: Models, Reasoning, and Inference. Cambridge University Press.
+[10] Adebayo, J., et al. (2018). Sanity Checks for Saliency Maps. Proceedings of NeurIPS.
+[11] Mohammad, S., et al. (2020). GoEmotions: A Dataset of Fine-Grained Emotions. Proceedings of ACL.
+[12] Wiebe, J., et al. (2004). Learning Subjective Language. Computational Linguistics.
+[13] Bai, Y., et al. (2022). Constitutional AI: Harmlessness from AI Feedback. arXiv preprint
+arXiv:2212.08073.
