@@ -1,6 +1,6 @@
 # Latent Counterfactuals: Activation Steering Notebook
 
-**File:** `Project_Notebook_Annotated.ipynb`
+**File:** `Project_Notebook_Final.ipynb`
 **Model:** GPT-2 Small
 **Methodology:** Mechanistic Interpretability (Activation Steering)
 **Library:** TransformerLens
@@ -56,7 +56,7 @@ Iterates through a range of `alpha` values to demonstrate the dose-response rela
 ## Usage Instructions
 
 ### Running on Google Colab (Recommended)
-1.  Upload `Project_Notebook_Annotated.ipynb` to Google Drive.
+1.  Upload `Project_Notebook_Final.ipynb` to Google Drive.
 2.  Open the file with Google Colab.
 3.  Change Runtime Type to **T4 GPU** for faster execution.
 4.  Execute all cells sequentially.
@@ -64,7 +64,7 @@ Iterates through a range of `alpha` values to demonstrate the dose-response rela
 ### Running Locally
 1.  Ensure you have a virtual environment with PyTorch installed.
 2.  Install dependencies: `pip install transformer_lens transformers numpy matplotlib`
-3.  Launch Jupyter Lab/Notebook: `jupyter notebook Project_Notebook_Annotated.ipynb`
+3.  Launch Jupyter Lab/Notebook: `jupyter notebook Project_Notebook_Final.ipynb`
 
 ## Configuration
 Key variables available for modification:
