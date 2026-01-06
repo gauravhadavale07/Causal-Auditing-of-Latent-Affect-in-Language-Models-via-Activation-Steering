@@ -7,8 +7,6 @@ This folder contains evaluation prompts and derived structural metrics used in t
 - `prompts.txt`  
   Evaluation prompts used across all experimental conditions.
 
-- `prompt_metadata.csv`  
-  Mapping between prompts and experimental conditions (baseline, anger-suppressed, control).
 
 - `structural_metrics.csv`  
   Per-prompt structural discourse metrics computed from generated outputs.
