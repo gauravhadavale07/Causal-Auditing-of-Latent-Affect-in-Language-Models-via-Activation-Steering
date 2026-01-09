@@ -1,4 +1,4 @@
-# Latent Counterfactuals via Activation Steering
+# Causal-Auditing-of-Latent-Affect-in-Language-Models-via-Activation-Steering
 
 This repository contains code and experiments for **causal auditing of affective behavior in large language models** using internal activation-level interventions.
 
